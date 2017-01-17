@@ -1,0 +1,5 @@
+Patient Name Sex DOB Address Phone 6
+Hogan, Alton Male 7/28/1967 3065 Putnam Blvd 925-787-2183 (Home) 6
+
+Released on: Fri Nov 4, 2016 9:30 AM
+
